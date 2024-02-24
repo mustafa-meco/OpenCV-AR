@@ -25,7 +25,7 @@ The project aims to provide a comprehensive solution for welding simulation and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/mustafa-meco/OpenCV-AR
    ```
 
 2. Install dependencies:
